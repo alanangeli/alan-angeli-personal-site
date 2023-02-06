@@ -1,4 +1,5 @@
 body {
+    color: #40514E;
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -26,6 +27,15 @@ h3 {
     color:  #11999E;
     font-family: 'Montserrat', sans-serif;
     
+}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;    
+    border-width: 5px;
+    width: 5%;
+   
 }
 
 .top-container {
